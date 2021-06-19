@@ -3,9 +3,9 @@
 
 
 
-### [Project Proposal](files/Project_Proposal.pdf)
-### [Progress Report](files/First_Report.pdf)
-### [GANs Face Generators](face_generator_gans.ipynb)
+### Milestone 1 : [Project Proposal](files/Project_Proposal.pdf)
+### Milestone 2 : [Progress Report](files/First_Report.pdf)
+### Submsission Code : [GANs Face Generators](face_generator_gans.ipynb)
 
 ### Generating Realistic Faces from random noise 
 
