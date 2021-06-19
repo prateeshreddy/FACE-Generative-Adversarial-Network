@@ -9,12 +9,12 @@
 
 ### Generating Realistic Faces from random noise 
 
-![Step_by_step](files/human_face_generator.gif)
+![Step_by_step](Files/human_face_generator.gif)
 
 
 ### Generated Image + Neural Style Transfer 
 
-![Neural Style Transfer](files/Neural_Style_Transfer.png)
+![Neural Style Transfer](Files/Neural_Style_Transfer.png)
 
 
 
